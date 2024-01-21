@@ -1,0 +1,5 @@
+go civic-done
+finish stuff-in progress
+stuff-in progress
+stuff-done
+Task deleted!-in progress
